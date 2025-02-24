@@ -36,27 +36,26 @@ Scalable deployment via Flask or FastAPI for API-based stock predictions.
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - Stock Price Analysis
+![Screenshot 2025-02-24 145204](https://github.com/user-attachments/assets/6c4556ce-de0e-4e89-958a-042f9234e4d8)
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+#### Output2 - Stock Price Variance
+![Screenshot 2025-02-24 145326](https://github.com/user-attachments/assets/e9e36906-c38e-4283-9126-444de49412f7)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+#### Output3 - Comparison Of ALgorithms
+![Screenshot 2025-02-24 145658](https://github.com/user-attachments/assets/923220fb-7680-43be-a0cb-50c8c090b401)
 
-Detection Accuracy: 96.7%
+Detection Accuracy:88.26
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
-
+The Stock Price Prediction System enhances market forecasting accuracy, helping investors make data-driven decisions. By leveraging LSTM, CNN, ANN, and Logistic Regression, it identifies patterns in stock data and predicts price movements. This project showcases AI's potential in financial analytics and paves the way for future advancements in automated trading and real-time market predictions. 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
-
-
-
+1.Rubi Gupta, Min Chen, “Sentiment Analysis for Stock Price Prediction”, IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2020 
+2.Jing Yee Lim, Kian Ming Lim, Chin Poo Lee, “Stacked Bidirectional Long ShortTerm Memory for Stock Market Analysis”, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), 2021 
+3.Samuel Olusegun Ojo, Pius Adewale Owolawi, Maredi Mphahlele, Juliana Adeola Adisa, “Stock Market Behaviour Prediction using Stacked LSTM Networks”, International Multidisciplinary Information Technology and Engineering Conference (IMITEC), 2020 
+4.J.Aruna Jasmine, S. Srinivasan, M. Godson, T.P. Rani, S.Susila Sakthy, “Share Market Prediction Using Long Short Term Memory and Artificial Neural Network”, 4th International Conference on Computing and Communications Technologies (ICCCT), 2022
+5.Xiaochun Zhang, Chen Li, Kuan-Lin Chen, Dimitrios Chrysostomou, Hongji Yang, “Stock Prediction with Stacked-LSTM Neural Networks”, IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2022
 
