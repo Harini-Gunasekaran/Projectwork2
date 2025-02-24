@@ -3,26 +3,31 @@ The development of a Stock Price Prediction system using machine learning,
 aimed at analyzing historical market data to forecast future stock trends and assist investors in making informed decisions.
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+The Stock Price Prediction System is designed to analyze historical stock market data and forecast future stock trends using deep learning and machine learning algorithms. Traditional stock market analysis relies on human expertise, which can be subjective and time-consuming. This project automates the prediction process using LSTM, CNN, ANN, and Logistic Regression, enabling more accurate and data-driven investment decisions.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Long Short-Term Memory (LSTM) for time series forecasting and handling sequential stock data.
+Convolutional Neural Networks (CNN) for pattern recognition in stock price fluctuations.
+Artificial Neural Networks (ANN) for learning complex stock market trends and making accurate predictions.
+Logistic Regression for binary stock movement classification (rise or fall).
+Real-time stock data retrieval from APIs like Yahoo Finance or Alpha Vantage.
+Data preprocessing and feature engineering to improve model accuracy.
+Interactive data visualization using Matplotlib and Seaborn for trend analysis.
+Scalable deployment via Flask or FastAPI for API-based stock predictions.
+
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+* Operating System: 64-bit OS (Windows 10, Ubuntu) for compatibility with ML frameworks.
+* Development Environment: Python 3.7 or later.
+* Machine Learning Libraries: TensorFlow/Keras, Scikit-Learn for model implementation.
+* Deep Learning Tools: TensorFlow (for LSTM, CNN, ANN), OpenCV (if using image-based analysis).
+* Data Handling: Pandas and NumPy for data manipulation.
+* Visualization Tools: Matplotlib, Seaborn, Plotly for stock price trends.
+* API Integration: Yahoo Finance API, Alpha Vantage, Quandl for real-time stock data.
+* Version Control: Git for collaborative development.
+* IDE: Jupyter Notebook, VSCode, or PyCharm for development and debugging
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
