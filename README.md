@@ -53,9 +53,13 @@ Note: These metrics can be customized based on your actual performance evaluatio
 <!--Give the results and impact as shown below-->
 The Stock Price Prediction System enhances market forecasting accuracy, helping investors make data-driven decisions. By leveraging LSTM, CNN, ANN, and Logistic Regression, it identifies patterns in stock data and predicts price movements. This project showcases AI's potential in financial analytics and paves the way for future advancements in automated trading and real-time market predictions. 
 ## Articles published / References
-1.Rubi Gupta, Min Chen, “Sentiment Analysis for Stock Price Prediction”, IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2020 
+1.Rubi Gupta, Min Chen, “Sentiment Analysis for Stock Price Prediction”, IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2020
+
 2.Jing Yee Lim, Kian Ming Lim, Chin Poo Lee, “Stacked Bidirectional Long ShortTerm Memory for Stock Market Analysis”, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET), 2021 
+
 3.Samuel Olusegun Ojo, Pius Adewale Owolawi, Maredi Mphahlele, Juliana Adeola Adisa, “Stock Market Behaviour Prediction using Stacked LSTM Networks”, International Multidisciplinary Information Technology and Engineering Conference (IMITEC), 2020 
+
 4.J.Aruna Jasmine, S. Srinivasan, M. Godson, T.P. Rani, S.Susila Sakthy, “Share Market Prediction Using Long Short Term Memory and Artificial Neural Network”, 4th International Conference on Computing and Communications Technologies (ICCCT), 2022
+
 5.Xiaochun Zhang, Chen Li, Kuan-Lin Chen, Dimitrios Chrysostomou, Hongji Yang, “Stock Prediction with Stacked-LSTM Neural Networks”, IEEE 21st International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2022
 
