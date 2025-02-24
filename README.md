@@ -31,8 +31,7 @@ Scalable deployment via Flask or FastAPI for API-based stock predictions.
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![Screenshot 2025-02-24 144824](https://github.com/user-attachments/assets/4df16f9e-a85f-4826-bd92-7f2524a055a9)
 
 ## Output
 
