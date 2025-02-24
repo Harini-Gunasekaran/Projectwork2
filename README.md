@@ -45,9 +45,7 @@ Scalable deployment via Flask or FastAPI for API-based stock predictions.
 #### Output3 - Comparison Of ALgorithms
 ![Screenshot 2025-02-24 145658](https://github.com/user-attachments/assets/923220fb-7680-43be-a0cb-50c8c090b401)
 
-Detection Accuracy:88.26
-Note: These metrics can be customized based on your actual performance evaluations.
-
+Detection Accuracy: 88.26
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
