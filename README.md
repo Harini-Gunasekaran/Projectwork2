@@ -1,6 +1,6 @@
 ## Title of the Project
 
-##Stock Price Prediction System Using Machine Learning
+## Stock Price Prediction system using machine learning
 The development of a Stock Price Prediction system using machine learning, 
 aimed at analyzing historical market data to forecast future stock trends and assist investors in making informed decisions.
 ## About
